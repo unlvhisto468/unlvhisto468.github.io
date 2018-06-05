@@ -4,14 +4,40 @@ layout: default
 
 #### Hello Victor
 
+
+![Splash_IMAGE](./assets/images/splash_image.png)
+
+
+
 # Course Schedule (Summer Term 2018)
 
-| _TODO_date   | _TODO_something   | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Date              | Lecture Topic                        | Laboratory Topic                                       |
+|:------------------|:-------------------------------------|:-------------------------------------------------------|
+| MONDAY June 4     | Histological Technique, The Cell     | Histological Technique, The Cell & Epithelium          |
+| TUESDAY June 5    | Epithelium                           | Connective Tissues                                     |
+| WEDNESDAY June 6  | Connective tissues                   | **Quiz I**                                             |
+| THURSDAY June 7   | Bone & Cartilage                     | Skeletal System, Pathology Discussion 1                |
+| FRIDAY   June 8   | Integumentary System                 | Muscular System                                        |
+| MONDAY June 11    | Muscle Tissue                        | Integumentary System                                   |
+| TUESDAY June 12   | Nervous System & Special Senses      | Nervous System                                         |
+| WEDNESDAY June 13 | **EXAM I**                           | **Quiz II**                                            |
+| THURSDAY June 14  | Endocrine System                     | Special Senses, Pathology Discussion 2                 |
+| FRIDAY June 15    | Blood & Hematopoiesis                | Endocrinology                                          |
+| MONDAY June 18    | Circulatory System                   | Practical I (_Lab Reports Due_)                        |
+| TUESDAY June 19   | Lymphatic System                     | Blood & Hematopoiesis                                  |
+| WEDNESDAY June 20 | Respiratory System                   | **Quiz III**                                           |
+| THURSDAY June 21  | Digestive System                     | Cardiovascular System, Pathology Discussion 3          |
+| FRIDAY June 22    | Digestive System                     | Lymphatic System                                       |
+| MONDAY June 25    | **EXAM II**                          | Respiratory System, **Quiz IV** Pathology Discussion 4 |
+| TUESDAY June 26   | Urinary System                       | Digestive System                                       |
+| WEDNESDAY June 27 | Male Reproductive System             | **Practical II**                                       |
+| THURSDAY June 28  | Female Reproductive System           | Urinary System, Pathology Discussion 5                 |
+| FRIDAY June 29    | Female Reproductive System           | Male Reproductive System                               |
+| MONDAY July 2     | Development                          | Female Reproductive System                             |
+| TUESDAY July 3    | Student Presentations                | Embryology, Pathology Discussion 6                     |
+| WEDNESDAY July 4  | 4th of July Holiday                  | 4th of July Holiday                                    |
+| THURSDAY July 5   | Review                               | Review                                                 |
+| FRIDAY July 6     | **Final Exam (11:00 a.m.-1:10 p.m.)**| **Final Practical (TBA)**                              |
 
 
 <br>
@@ -27,9 +53,12 @@ layout: default
 <br>
 
 
-## ________TODO_LIST
+## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
 
 *   Opening page with current schedule from syllabus (copy same formatting)
+*   Slide list for each lab 
+*   Lab notebook questions
+*   Example Quiz/Pratical questions
 
  
 <br>
