@@ -219,7 +219,7 @@ header {
 	background-color: #171717;
 	color: #FDFDFB;
   width:220px;
-  height:520px;
+  height:560px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -333,7 +333,7 @@ footer {
   width:170px;
   float:left;
   position:fixed;
-  bottom:10px;
+  bottom:-15px;
 	padding-left: 50px;
 }
 
@@ -352,7 +352,7 @@ footer {
 
 	footer {
 		border-top: 1px solid #ccc;
-		margin:0 84px 0 50px;
+		margin:0 84px 0 0px;
 		padding:0;
 	}
 
