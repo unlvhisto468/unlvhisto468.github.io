@@ -74,7 +74,9 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
     ```yml
     github:
       zip_url: http://example.com/download.zip
-      another_url: another value
+    pages:
+      page_lab1_url: another-page.html
+      page_lab2_url: another-page-2.html
     ```
 3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 

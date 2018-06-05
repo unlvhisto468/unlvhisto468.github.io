@@ -2,30 +2,11 @@
 layout: default
 ---
 
-## Hello Victor - Summer Project
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+#### Hello Victor
 
 # Course Schedule (Summer Term 2018)
-| head1        | head two          | three |
+
+| _TODO_date   | _TODO_something   | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
@@ -33,18 +14,43 @@ layout: default
 | ok           | good `zoute` drop | yumm  |
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-#### ________TODO_LIST
+
+## ________TODO_LIST
 
 *   Opening page with current schedule from syllabus (copy same formatting)
 
  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
  
-# TOOLS (possible formats/styles for this website)
+# TOOLS 
+#### (possible formats/styles for this website)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
+[Link to another page 2](./another-page-2.html).
 
 There should be whitespace between paragraphs.
 
