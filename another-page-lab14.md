@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 2: Connective Tissue
+## Lab 14: Male Reproductive System
 
 _TODO_someContent
 
@@ -16,7 +16,7 @@ _TODO_someContent
 
 
 
-### Lab 2 - Notebook Questions
+### Lab Notebook Questions
 
 1.  Sketch This
 2.  Sketch That

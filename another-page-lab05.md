@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 1: Epithelium
+## Lab 5: Integumentary System
 
 _TODO_someContent
 
@@ -16,7 +16,7 @@ _TODO_someContent
 
 
 
-### Lab 1 - Notebook Questions
+### Lab Notebook Questions
 
 1.  Sketch This
 2.  Sketch That
