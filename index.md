@@ -2,8 +2,45 @@
 layout: default
 ---
 
-# Hello Victor - Summer Term 2 - Histology 468
+## Hello Victor - Summer Project
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+# Course Schedule (Summer Term 2018)
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+
+#### ________TODO_LIST
+
+*   Opening page with current schedule from syllabus (copy same formatting)
+
+ 
+ 
+# TOOLS (possible formats/styles for this website)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
