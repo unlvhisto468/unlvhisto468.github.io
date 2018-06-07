@@ -3,8 +3,6 @@ layout: default
 ---
 
 #### Hello Victor
-
-
 ## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
 
 *   Slide list for each lab 
@@ -14,7 +12,27 @@ layout: default
 ![Splash_IMAGE](./assets/images/splash_image.png)
 
 
+<a id="jump-to-announcements" class="jump-to-section"> </a>
+# Announcements
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<a id="jump-to-schedule" class="jump-to-section"> </a>
 # Course Schedule (Summer Term 2018)
 
 | Date                        | Lecture Topic                        | Laboratory Topic                                       |

@@ -56,6 +56,30 @@
       </header>
 
       <section>
+
+        <!-- Logic to modify the top nagivation buttons -->
+        {% if page.path contains 'page' %}
+          <!-- specific to pages (non-home page -->
+          <div class="container-narrow">
+            <ul >
+                <li class="display-horizontal"><a href="./">Home</a></li>
+                <li class="display-horizontal"><a href="">Slide List</a></li>
+                <li class="display-horizontal"><a href="#jump-to-notebook-questions">Notebook Questions</a></li>
+                <li class="display-horizontal"><a href="#jump-to-pathology">Pathology</a></li>
+                <li class="display-horizontal"><a href="">Practice Questions</a></li>
+            </ul>
+          </div>
+        {% else %}
+          <!-- specific to home -->
+          <div class="container-narrow">
+            <ul >
+                <li class="display-horizontal"><a href="#jump-to-announcements">Announcements</a></li>
+                <li class="display-horizontal"><a href="#jump-to-schedule">Schedule</a></li>
+            </ul>
+          </div>
+        {% endif %}
+
+
         {{ content }}
       </section>
 
