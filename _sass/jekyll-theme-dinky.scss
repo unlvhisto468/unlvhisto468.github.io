@@ -74,6 +74,10 @@ p, ul, ol, table, dl {
   margin:0 0 22px;
 }
 
+ol ul{
+  margin: 0;
+}
+
 h1, h2, h3 {
 	font-family: Arvo, Monaco, serif;
   line-height:1.3;

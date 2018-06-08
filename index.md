@@ -2,18 +2,16 @@
 layout: default
 ---
 
-#### Hello Victor
-## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
-
-*   Slide list for each lab 
-*   Lab notebook questions
-*   Example Quiz/Practical questions
-
 ![Splash_IMAGE](./assets/images/splash_image.png)
 
 
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
+
+
+
+#### Lab Notebook Report (_Due 6/8_)
+* Muscular System
 
 <br>
 <br>

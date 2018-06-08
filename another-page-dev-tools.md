@@ -2,7 +2,41 @@
 layout: default
 ---
 
-## # TOOLS 
+## Credit
+
+Website created by   [Richard Van](mailto:vanr1@unlv.nevada.edu) (UNLV Histology Undergraduate Teaching Assistant)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
+
+*   Slide list for each lab 
+*   Lab notebook questions
+*   Example Quiz/Practical questions
+
+<br>
+<br>
+<br>
+
+## TOOLS 
 
 #### (possible formats/styles for this website)
 
