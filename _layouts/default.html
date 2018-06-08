@@ -61,7 +61,9 @@
       <section>
 
         <!-- Logic to modify the top nagivation buttons -->
-        {% if page.path contains 'page' %}
+        {% if page.path contains 'dev' %}
+          <!-- specific to dev -->
+        {% else if page.path contains 'page' %}
           <!-- specific to pages (non-home page -->
           <div class="container-narrow">
             <ul >
@@ -84,10 +86,28 @@
 
 
         {{ content }}
+      <div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p align=CENTER><small><a href="./another-page-dev-tools.html">&copy; UNLV School of Life Sciences</a></small></p>
+
+      </div>
       </section>
 
       <footer>
-        <p><small><a href="./another-page-dev-tools.html">Webmaster</a></small></p>
 
       </footer>
     </div>

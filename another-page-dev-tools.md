@@ -25,13 +25,16 @@ Website created by   [Richard Van](mailto:vanr1@unlv.nevada.edu) (UNLV Histology
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
 
 *   Slide list for each lab 
 *   Lab notebook questions
 *   Example Quiz/Practical questions
-
+*   http://education.med.nyu.edu/Histology/courseware/modules/
 <br>
 <br>
 <br>
