@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 12: Digestive System
+# Lab 12: Digestive System
 
 _TODO_someContent
 

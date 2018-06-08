@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 3: Skeletal System
+# Lab 3: Skeletal System
 
 <br>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 2: Connective Tissue
+# Lab 2: Connective Tissue
 
 <br>
 

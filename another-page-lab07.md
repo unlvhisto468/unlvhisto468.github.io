@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 7: Special Senses
+# Lab 7: Special Senses
 
 <br>
 

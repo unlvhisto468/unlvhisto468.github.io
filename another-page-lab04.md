@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 4: Muscular System
+# Lab 4: Muscular System
 
 <br>
 

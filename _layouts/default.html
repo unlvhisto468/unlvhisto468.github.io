@@ -63,7 +63,16 @@
         <!-- Logic to modify the top nagivation buttons -->
         {% if page.path contains 'dev' %}
           <!-- specific to dev -->
-        {% else if page.path contains 'page' %}
+
+          <div class="container-narrow">
+            <ul >
+                <li class="display-horizontal"><a href="./">Home</a></li>
+            </ul>
+          </div>
+
+        {% endif %}
+
+        {% if page.path contains 'page' %}
           <!-- specific to pages (non-home page -->
           <div class="container-narrow">
             <ul >
@@ -74,7 +83,10 @@
                 <li class="display-horizontal"><a href="">Practice Questions</a></li>
             </ul>
           </div>
-        {% else %}
+
+        {% endif %}
+
+        {% if page.path contains 'index' %}
           <!-- specific to home -->
           <div class="container-narrow">
             <ul >
@@ -83,6 +95,7 @@
             </ul>
           </div>
         {% endif %}
+
 
 
         {{ content }}
@@ -102,7 +115,7 @@
         <br>
         <br>
         <br>
-        <p align=CENTER><small><a href="./another-page-dev-tools.html">&copy; UNLV School of Life Sciences</a></small></p>
+        <p align=CENTER style="margin:0px;"><small><a href="./another-page-dev-tools.html">&copy; UNLV School of Life Sciences</a></small></p>
 
       </div>
       </section>

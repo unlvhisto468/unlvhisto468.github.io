@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 9: Blood & Bone Marrow
+# Lab 9: Blood & Bone Marrow
 
 <br>
 

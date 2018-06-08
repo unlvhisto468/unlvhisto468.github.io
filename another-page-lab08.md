@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 8: Endocrinology
+# Lab 8: Endocrinology
 
 <br>
 

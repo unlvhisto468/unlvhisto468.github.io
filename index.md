@@ -10,7 +10,7 @@ layout: default
 
 
 
-#### Lab Notebook Report (_Due 6/8_)
+#### Next Lab Notebook Report (_Due 6/8_)
 * Muscular System
 
 <br>

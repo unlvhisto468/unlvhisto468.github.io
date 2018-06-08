@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 14: Male Reproductive System
+# Lab 14: Male Reproductive System
 
 _TODO_someContent
 

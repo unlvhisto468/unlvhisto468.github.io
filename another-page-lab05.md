@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 5: Integumentary System
+# Lab 5: Integumentary System
 
 <br>
 

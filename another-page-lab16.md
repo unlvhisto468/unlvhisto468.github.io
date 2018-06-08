@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 16: Embryology
+# Lab 16: Embryology
 
 _TODO_someContent
 

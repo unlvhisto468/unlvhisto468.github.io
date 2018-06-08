@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 13: Urinary System
+# Lab 13: Urinary System
 
 _TODO_someContent
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 15: Female Reproductive System
+# Lab 15: Female Reproductive System
 
 _TODO_someContent
 

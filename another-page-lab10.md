@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 10: Cardiovascular System
+# Lab 10: Cardiovascular System
 
 _TODO_someContent
 

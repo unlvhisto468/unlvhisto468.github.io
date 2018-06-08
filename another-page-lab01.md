@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 1: Histological Technique + Epithelium
+# Lab 1: Histological Technique + Epithelium
 
 <br>
 

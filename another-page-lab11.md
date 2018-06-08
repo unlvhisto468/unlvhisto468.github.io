@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Lab 11: Respiratory System
+# Lab 11: Respiratory System
 
 _TODO_someContent
 
