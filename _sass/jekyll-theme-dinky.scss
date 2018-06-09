@@ -17,6 +17,7 @@
     color: #777777;
     text-decoration: none;
     text-shadow: 0 0.5px 0 #ffffff;
+    margin: 0px 0px 10px 0px;
     border: 1px solid #d4d4d4;
     border-radius: 2px;
     background-color: #CABCB9; 
@@ -75,6 +76,10 @@ p, ul, ol, table, dl {
 }
 
 ol ul{
+  margin: 0;
+}
+
+ul ul{
   margin: 0;
 }
 
@@ -176,7 +181,6 @@ hr {
 
 img {
   position: relative;
-  margin: 0 auto;
   max-width: 650px;
   padding: 5px;
   margin: 10px 0 32px 0;

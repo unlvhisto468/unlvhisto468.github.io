@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Lab 1: Histological Technique + Epithelium
+
+![Splash_IMAGE](./assets/images/splashImage_epithelialTissue.png)
+
+# Lab 1: Histological Technique + Epithelial Tissue
 
 <br>
 

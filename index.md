@@ -2,15 +2,52 @@
 layout: default
 ---
 
-![Splash_IMAGE](./assets/images/splash_image.png)
+![Splash_IMAGE](./assets/images/splashImage_mitosis.png)
 
 
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
 
+#### Pathology Discussion 1 Topics (_Due 6/8_)
 
-#### Next Lab Notebook Report (_Due 6/8_)
+*	Chapter 2 -Cytoplasm
+	*	Glycogen Storage Disorder – page 46
+*	Chapter 3 - Nucleus
+	*	Fragile X syndrome– page 63
+	*	Down Syndrome– page 63
+	*	Oncogenes – page 76
+*	Chapter 4 – Extracellular Matrix
+	*	Hyaluronidase – page 83
+	*	Stickler Syndrome -page 91
+	*	Scurvy – page 91
+	*	Marfan Syndrome – page 93
+*	Chapter 5 – Epithelium
+	*	Kartagener Syndrome – page 106
+	*	Polydactyly – page 108
+	*	Cardiac Arrhythmias, Gap Junction Plaques– page 117
+*	Chapter 6 – Connective Tissue
+	*	Anaphylaxis – page 137
+	*	Hay Fever – page 137
+	*	Asthma – page 137
+	*	Sarcomas – page 142
+	*	Edema. – page 142
+*	Chapter 7 – Bone & Cartilage
+	*	Osteoporosis – page 160-161
+	*	Ruptured Disk – page 154
+	*	 Rickets – page 174
+*	Chapter 8 - Muscle Tissue
+	*	Rigor Mortis – page 191
+	*	Botox Cosmetic – page 194
+	*	Mysathenia Gravis – page 194
+	*	Cardiac hypertrophy – page 202
+
+*	Chapter 14 – Integumentary System
+	*	Albinism – Page 379
+	*	Pruriception – page 381
+	*	ALL of page 383
+
+#### Next Lab Notebook Report (_Due 6/11_)
 * Muscular System
 
 <br>

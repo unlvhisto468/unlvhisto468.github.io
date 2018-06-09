@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![Splash_IMAGE](./assets/images/splashImage_connectiveTissue.png)
+
 # Lab 2: Connective Tissue
 
 <br>

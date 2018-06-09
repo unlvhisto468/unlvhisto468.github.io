@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![Splash_IMAGE](./assets/images/splashImage_bone.png)
+
 # Lab 3: Skeletal System
 
 <br>
