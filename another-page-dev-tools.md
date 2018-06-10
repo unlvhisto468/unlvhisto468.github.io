@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Credit and Contributions 
+# Credits and Contributions 
 
 #### Course Professor
 
 * Dr. Robert Winokur
 
-#### Lab Instructor
+#### Lab Instructors
 
 * Victor Barragan             
 * Alex Deehl                 
