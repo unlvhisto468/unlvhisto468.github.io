@@ -2,14 +2,29 @@
 layout: default
 ---
 
-## Credit
+# Credit and Contributions 
 
-Website created by   [Richard Van](mailto:vanr1@unlv.nevada.edu) (UNLV Histology Undergraduate Teaching Assistant)
+#### Course Professor
 
-<br>
-<br>
-<br>
-<br>
+* Dr. Robert Winokur
+
+#### Lab Instructor
+
+* Victor Barragan             
+* Alex Deehl                 
+* Oscar Monterossa
+
+#### Undegraduate Teaching Assistants
+
+* Richard Van
+* Natalie Contreras 
+* Jennifer Phans
+* Robert Lincon 
+* Matthhew Khumnrak 
+
+#### Webmaster
+* [Richard Van](mailto:vanr1@unlv.nevada.edu)
+
 <br>
 <br>
 <br>
