@@ -8,8 +8,10 @@ layout: default
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
+#### Next Lab Notebook Report (_Due 6/11_)
+* Muscular System
 
-#### Pathology Discussion 1 Topics (_Due 6/8_)
+#### Pathology Discussion 1 Topics (_Due 6/11_)
 
 *	Chapter 2 -Cytoplasm
 	*	Glycogen Storage Disorder – page 46
@@ -47,8 +49,6 @@ layout: default
 	*	Pruriception – page 381
 	*	ALL of page 383
 
-#### Next Lab Notebook Report (_Due 6/11_)
-* Muscular System
 
 <br>
 <br>
