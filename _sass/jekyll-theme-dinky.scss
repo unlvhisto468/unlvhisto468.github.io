@@ -225,6 +225,7 @@ table {
   border: 1px solid #ccc;
   margin-bottom: 32px;
   text-align: left;
+  border-collapse: separate;
  }
 
 th {
@@ -253,8 +254,7 @@ td {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:220px;
-  height:560px;
+  height:660px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -303,7 +303,7 @@ header ul {
 header li {
 	list-style-type: none;
   width:220px;
-  height:12px;
+  height:26px;
 	margin-bottom: 6px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
@@ -336,10 +336,9 @@ header li:hover {
 
 a.buttons {
 	-webkit-font-smoothing: antialiased;
-	background: url(../images/arrow-down.png) no-repeat;
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	padding: 2px 2px 2px 22px;
+	padding: 2px 2px 2px 2px;
 	height: 30px;
 }
 

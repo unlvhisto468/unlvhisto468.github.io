@@ -16,11 +16,15 @@ layout: default
 
 #### Undegraduate Teaching Assistants
 
-* Richard Van
 * Natalie Contreras 
-* Jennifer Phans
-* Robert Lincon 
 * Matthhew Khumnrak 
+* Robert Lincon 
+* Jennifer Phan
+* Richard Van
+
+#### Course Contributor
+
+* Daniella Sandoval from Chicago Medical School
 
 #### Webmaster
 * [Richard Van](mailto:vanr1@unlv.nevada.edu)
@@ -179,3 +183,34 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+<br>
+<br>
+
+## Templates for coding up questions 
+
+_JUST COPY AND PASTE, THEN FILL-IN_
+
+`## BEGIN`
+
+<div class="card">
+  <div class="card-header">
+    <strong>Question _TODO_questionNumber_</strong>
+  </div>
+  <div class="card-body">
+    <p class="card-text">_TODO_question_?</p>
+    <div style="margin-left: 20px;">
+    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample_TODOnewID_" aria-expanded="false" aria-controls="collapseExample"> Show Answer</a>
+    <div class="collapse" id="collapseExample_TODOnewID_">
+      <br>
+        <div class="well">
+          _TODO_answer_
+        </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+`## END`
