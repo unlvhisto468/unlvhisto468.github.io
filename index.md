@@ -8,26 +8,26 @@ layout: default
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
-#### Next Lab Notebook Report 
-Histological Technique, The Cell & Epithelium (_Due 6/5_)   
-Connective Tissues (_Due 6/6_)                                 
-Skeletal System (_Due 6/8_)      
-Muscular System (_Due 6/11_)                         
-Integumentary System (_Due 6/12_)                                  
-Nervous System (_Due 6/13_)                                     
-Special Senses (_Due 6/15_)       
-Endocrinology (_Due 6/18_)                       
-Blood & Hematopoiesis (_Due 6/20_)  
-Cardiovascular System (_Due 6/22_)
-Lymphatic System (_Due 6/25_)                               
-Respiratory System (_Due 6/26_) 
-Digestive System  (_Due 6/27_)                                   
-Urinary System (_Due 6/29_)         
-Male Reproductive System (_Due 7/2_)      
-Female Reproductive System (_Due 7/3_)                              
-Embryology (_Due 7/5_)  
+#### Lab Notebook Report Due Dates
+* Histological Technique, The Cell & Epithelium (_Due 6/5_)   
+* Connective Tissues (_Due 6/6_)                                 
+* Skeletal System (_Due 6/8_)      
+* Muscular System (_Due 6/11_)                         
+* Integumentary System (_Due 6/12_)                                  
+* Nervous System (_Due 6/13_)                                     
+* Special Senses (_Due 6/15_)       
+* Endocrinology (_Due 6/18_)                       
+* Blood & Hematopoiesis (_Due 6/20_)  
+* Cardiovascular System (_Due 6/22_)
+* Lymphatic System (_Due 6/25_)                               
+* Respiratory System (_Due 6/26_) 
+* Digestive System  (_Due 6/27_)                                   
+* Urinary System (_Due 6/29_)         
+* Male Reproductive System (_Due 7/2_)      
+* Female Reproductive System (_Due 7/3_)                              
+* Embryology (_Due 7/5_)  
 
-#### Pathology Discussion 1 Topics (_Due 6/11_)
+#### Pathology Discussion 1 Topics 
 
 *	Chapter 2 -Cytoplasm
 	*	Glycogen Storage Disorder – page 46
@@ -86,7 +86,7 @@ Embryology (_Due 7/5_)
 | WEDNESDAY<br> June 13       | **EXAM I**                           | **Quiz II**                                            |
 | THURSDAY<br> June 14        | Endocrine System                     | Special Senses, <br>Pathology Discussion 2             |
 | FRIDAY<br> June 15          | Blood & Hematopoiesis                | Endocrinology                                          |
-| MONDAY<br> June 18          | Circulatory System                   | **Practical I**<br> (_Lab Reports Due_)                |
+| MONDAY<br> June 18          | Circulatory System                   | **Practical I**<br> 						              |
 | TUESDAY<br> June 19         | Lymphatic System                     | Blood & Hematopoiesis                                  |
 | WEDNESDAY<br> June 20       | Respiratory System                   | **Quiz III**                                           |
 | THURSDAY<br> June 21        | Digestive System                     | Cardiovascular System, <br>Pathology Discussion 3      |

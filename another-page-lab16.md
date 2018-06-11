@@ -2,9 +2,11 @@
 layout: default
 ---
 
+![Splash_IMAGE](./assets/images/splashImage_umbilicalCord.png)
+
 # Lab 16: Embryology
 
-_TODO_someContent
+
 
 <br>
 <br>
