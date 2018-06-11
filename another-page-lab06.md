@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![Splash_IMAGE](./assets/images/splashImage_spinal.png)
+
 # Lab 6: Nervous System
 
 <br>

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![Splash_IMAGE](./assets/images/splashImage_retina.png)
 # Lab 7: Special Senses
 
 <br>

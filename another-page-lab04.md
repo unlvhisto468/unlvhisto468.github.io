@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![Splash_IMAGE](./assets/images/splashImage_skeletalMuscle.png)
 # Lab 4: Muscular System
 
 <br>

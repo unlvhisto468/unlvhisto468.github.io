@@ -8,8 +8,24 @@ layout: default
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
-#### Next Lab Notebook Report (_Due 6/11_)
-* Muscular System
+#### Next Lab Notebook Report 
+Histological Technique, The Cell & Epithelium (_Due 6/5_)   
+Connective Tissues (_Due 6/6_)                                 
+Skeletal System (_Due 6/8_)      
+Muscular System (_Due 6/11_)                         
+Integumentary System (_Due 6/12_)                                  
+Nervous System (_Due 6/13_)                                     
+Special Senses (_Due 6/15_)       
+Endocrinology (_Due 6/18_)                       
+Blood & Hematopoiesis (_Due 6/20_)  
+Cardiovascular System (_Due 6/22_)
+Lymphatic System (_Due 6/25_)                               
+Respiratory System (_Due 6/26_) 
+Digestive System  (_Due 6/27_)                                   
+Urinary System (_Due 6/29_)         
+Male Reproductive System (_Due 7/2_)      
+Female Reproductive System (_Due 7/3_)                              
+Embryology (_Due 7/5_)  
 
 #### Pathology Discussion 1 Topics (_Due 6/11_)
 

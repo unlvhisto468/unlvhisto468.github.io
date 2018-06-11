@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![Splash_IMAGE](./assets/images/splashImage_pacinianCorpuscle.png) 
 # Lab 5: Integumentary System
 
 <br>

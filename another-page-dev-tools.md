@@ -30,23 +30,8 @@ layout: default
 * [Richard Van](mailto:vanr1@unlv.nevada.edu)
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<!-- 
 
 ## ________TODO_LIST + __NICE_TO_HAVE_IDEAS__
 
@@ -213,4 +198,4 @@ _JUST COPY AND PASTE, THEN FILL-IN_
 </div>
 
 
-`## END`
+`## END` -->
