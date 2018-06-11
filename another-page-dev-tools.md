@@ -11,20 +11,20 @@ layout: default
 #### Lab Instructors
 
 * Victor Barragan             
-* Alex Deehl                 
-* Oscar Monterossa
+<!-- * Alex Deehl                  -->
+<!-- * Oscar Monterossa -->
 
 #### Undegraduate Teaching Assistants
 
 * Natalie Contreras 
-* Matthhew Khumnrak 
+* Matthew Khumnrak 
 * Robert Lincon 
 * Jennifer Phan
 * Richard Van
 
 #### Course Contributor
 
-* Daniella Sandoval from Chicago Medical School
+* Daniella Sandoval, Chicago Medical School
 
 #### Webmaster
 * [Richard Van](mailto:vanr1@unlv.nevada.edu)
