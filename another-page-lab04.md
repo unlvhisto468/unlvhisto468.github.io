@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Splash_IMAGE](./assets/images/splashImage_skeletalMuscle.png)
+![Splash_IMAGE](./assets/images/splashImage_skeletalMuscle.png) 
 # Lab 4: Muscular System
 
 <br>
@@ -16,3 +16,41 @@ layout: default
 5.  Do a rough sketch of what a muscle fiber and its specific arrangements inside the fiber
 
 
+<a id="jump-to-practice-questions" class="jump-to-section"> </a>
+### Practice Questions
+
+<div class="card">
+  <div class="card-header">
+    <strong>Question 1</strong>
+  </div>
+  <div class="card-body">
+    <p class="card-text">What type of muscle tissue is this?</p>
+    <img src="./assets/images/splashImage_skeletalMuscle.png" width="500">
+    <div style="margin-left: 20px;">
+    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample01" aria-expanded="false" aria-controls="collapseExample"> Show Answer</a>
+    <div class="collapse" id="collapseExample01">
+      <br>
+        <div class="well">
+          Skeletal Muscle Tissue
+        </div>
+    </div>
+  </div>  
+</div>
+<br>
+<div class="card">
+  <div class="card-header">
+    <strong>Question 2</strong>
+  </div>
+  <div class="card-body">
+    <p class="card-text">How many cells of Question 1 is depicted in the view?</p>
+    <div style="margin-left: 20px;">
+    <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample02" aria-expanded="false" aria-controls="collapseExample"> Show Answer</a>
+    <div class="collapse" id="collapseExample02">
+      <br>
+        <div class="well">
+          3-4
+        </div>
+    </div>
+  </div>  
+</div>
+<br>

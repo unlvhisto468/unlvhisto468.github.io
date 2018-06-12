@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![Splash_IMAGE](./assets/images/splashImage_artery.png)
 # Lab 9: Blood & Bone Marrow
 
 <br>

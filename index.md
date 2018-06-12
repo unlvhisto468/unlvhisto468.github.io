@@ -14,7 +14,7 @@ layout: default
 * Skeletal System (_Due 6/8_)      
 * Muscular System (_Due 6/11_)                         
 * Integumentary System (_Due 6/12_)                                  
-* Nervous System (_Due 6/13_)                                     
+* Nervous System (_Due 6/14_)                                     
 * Special Senses (_Due 6/15_)       
 * Endocrinology (_Due 6/18_)                       
 * Blood & Hematopoiesis (_Due 6/20_)  
