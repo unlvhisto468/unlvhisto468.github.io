@@ -8,6 +8,20 @@ layout: default
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
+#### Exam 1 Results:
+* Average for Exam 1 was _80%_ 
+* High Score was _113/113_ 
+
+#### Lecture
+* Reminder: there will be NO special senses chapter in lecture this summer due to scheduling conflicts.
+
+#### Pathology 
+* Pathology Discussion II has been moved to _Friday June 15th_ 
+* Pathology Discussion III has been moved to _Friday June 22nd_ 
+* Pathology Discussion IV has been moved to _Friday June 29th_
+* Pathology Discussion V has been moved to _Tuesday July 6th_
+* Pathology Discussion VI was consolidated. 
+
 #### Lab Notebook Report Due Dates
 * Histological Technique, The Cell & Epithelium (_Due 6/5_)   
 * Connective Tissues (_Due 6/6_)                                 
