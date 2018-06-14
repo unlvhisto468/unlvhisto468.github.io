@@ -9,7 +9,7 @@ layout: default
 # Announcements
 
 #### Exam 1 Results:
-* Average for Exam 1 was _80%_ 
+* Average was _80%_ 
 * High Score was _113/113_ 
 
 #### Lecture
