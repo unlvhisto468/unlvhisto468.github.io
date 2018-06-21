@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Lab 12: Digestive System
+![Splash_IMAGE](./assets/images/splashImage_lung.png)
+# Lab 12: Respiratory System
 
 _TODO_someContent
 

@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Lab 14: Male Reproductive System
+
+![Splash_IMAGE](./assets/images/splashImage_kidney.png)
+# Lab 14: Urinary System
 
 _TODO_someContent
 

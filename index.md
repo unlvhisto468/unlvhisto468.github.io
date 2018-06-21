@@ -19,7 +19,7 @@ layout: default
 * Pathology Discussion II has been moved to _Friday June 15th_ 
 * Pathology Discussion III has been moved to _Friday June 22nd_ 
 * Pathology Discussion IV has been moved to _Friday June 29th_
-* Pathology Discussion V has been moved to _Tuesday July 6th_
+* Pathology Discussion V has been moved to _Thursday July 5th_
 * Pathology Discussion VI was consolidated. 
 
 #### Lab Notebook Report Due Dates
@@ -93,25 +93,25 @@ layout: default
 | MONDAY<br> June 4           | Histological Technique, <br>The Cell | Histological Technique, <br>The Cell & Epithelium      |
 | TUESDAY<br> June 5          | Epithelium                           | Connective Tissues                                     |
 | WEDNESDAY<br> June 6        | Connective tissues                   | **Quiz I**                                             |
-| THURSDAY<br> June 7         | Bone & Cartilage                     | Skeletal System, <br>Pathology Discussion 1            |
+| THURSDAY<br> June 7         | Bone & Cartilage                     | Skeletal System							              |
 | FRIDAY<br>   June 8         | Integumentary System                 | Muscular System                                        |
-| MONDAY<br> June 11          | Muscle Tissue                        | Integumentary System                                   |
+| MONDAY<br> June 11          | Muscle Tissue                        | Integumentary System, <br>Pathology Discussion 1       |
 | TUESDAY<br> June 12         | Nervous System & Special Senses      | Nervous System                                         |
 | WEDNESDAY<br> June 13       | **EXAM I**                           | **Quiz II**                                            |
-| THURSDAY<br> June 14        | Endocrine System                     | Special Senses, <br>Pathology Discussion 2             |
-| FRIDAY<br> June 15          | Blood & Hematopoiesis                | Endocrinology                                          |
+| THURSDAY<br> June 14        | Endocrine System                     | Special senses        							      |
+| FRIDAY<br> June 15          | Blood & Hematopoiesis                | Endocrinology, <br>Pathology Discussion 2              |
 | MONDAY<br> June 18          | Circulatory System                   | **Practical I**<br> 						              |
 | TUESDAY<br> June 19         | Lymphatic System                     | Blood & Hematopoiesis                                  |
 | WEDNESDAY<br> June 20       | Respiratory System                   | **Quiz III**                                           |
-| THURSDAY<br> June 21        | Digestive System                     | Cardiovascular System, <br>Pathology Discussion 3      |
-| FRIDAY<br> June 22          | Digestive System                     | Lymphatic System                                       |
-| MONDAY<br> June 25          | **EXAM II**                          | Respiratory System,<br>**Quiz IV**<br>Pathology Discussion 4 |
+| THURSDAY<br> June 21        | Digestive System                     | Cardiovascular System							      |
+| FRIDAY<br> June 22          | Digestive System                     | Lymphatic System, <br>Pathology Discussion 3           |
+| MONDAY<br> June 25          | **EXAM II**                          | **Quiz IV**, <br>Respiratory System 					  |	
 | TUESDAY<br> June 26         | Urinary System                       | Digestive System                                       |
 | WEDNESDAY<br> June 27       | Male Reproductive System             | **Practical II**                                       |
-| THURSDAY<br> June 28        | Female Reproductive System           | Urinary System, <br>Pathology Discussion 5             |
-| FRIDAY<br> June 29          | Female Reproductive System           | Male Reproductive System                               |
+| THURSDAY<br> June 28        | Female Reproductive System           | Urinary System							              |
+| FRIDAY<br> June 29          | Female Reproductive System           | Male Reproductive System <br>Pathology Discussion 4    |
 | MONDAY<br> July 2           | Development                          | Female Reproductive System                             |
-| TUESDAY<br> July 3          | Student Presentations                | Embryology, <br>Pathology Discussion 6                 |
-| WEDNESDAY<br> July 4        | 4th of July Holiday                  | 4th of July Holiday                                    |
-| THURSDAY<br> July 5         | Review                               | Review                                                 |
-| FRIDAY<br> July 6           | **Final Exam**<br>(11:00 a.m.-1:10 p.m.)| **Final Practical (TBA)**                              |
+| TUESDAY<br> July 3          | Student Presentations                | Embryology							                  |
+| WEDNESDAY<br> July 4        | _4th of July Holiday_                | _4th of July Holiday_                                  |
+| THURSDAY<br> July 5         | Review                               | Review, <br>Pathology Discussion 5             	      |
+| FRIDAY<br> July 6           | **Final Exam**<br>(11:00am - 1:10pm) | **Final Practical**<br>(4:30pm - 6:30pm)               |
