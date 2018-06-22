@@ -6,13 +6,15 @@ layout: default
 # Lab 10: Cardiovascular System
 
 <br>
-<br>
 
 
 
 ### Lab Notebook Questions
 
-1.  TBA
+1.  Sketch an ENTIRE heart (on one page) and label all the major layers, cells, and include the intrinsic nodal system, and where it would be located
+2.  Summarize the ‘pressure’ sensing structures of the heart, WHERE they are located, and any cells involved
+3.  Make a sketch of all the different types of blood vessels, and their specific tissue make-up
+4.  Make a sketch of all the different types capillaries 
 
 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>

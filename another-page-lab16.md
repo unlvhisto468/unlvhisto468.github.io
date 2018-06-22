@@ -23,7 +23,7 @@ _TODO_someContent
 1.  Sketch This
 2.  Sketch That
 
-
+<!-- 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>
 ### Practice Questions
 
@@ -61,4 +61,4 @@ _TODO_someContent
     </div>
   </div>  
 </div>
-<br>
+<br> -->

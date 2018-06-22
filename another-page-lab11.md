@@ -5,16 +5,14 @@ layout: default
 ![Splash_IMAGE](./assets/images/splashImage_thymus.png)
 # Lab 11: Lymphatic System
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
+### Lab Notebook Questions
+
+1.  Sketch and label all the major structures and locations of cells of the lymph node
+2.	Sketch and label all the major structures and locations of cells of the Spleen
+3.	Sketch and label all the major structures and locations of cells of the Thymus
+4.	Sketch and label all the major structures and locations of cells of the Tonsils (all 3 types) 
 
 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>
