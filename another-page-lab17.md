@@ -6,14 +6,31 @@ layout: default
 
 # Lab 17: Embryology
 
-<!-- <br>
-
-
-
 ### Lab Notebook Questions
 
-1.  Sketch This
-2.  Sketch That -->
+1.  List all of the pathologies (from your lecture book) 
+2.	Where does fertilization occur? 
+3.	Summarize the key events from the video shown in class (approx. 1 page)
+4.	What occurs during fertilization? 
+	*	What are key events and features of this stage? 
+5.	What occurs during cleavage? 
+	*	What are key events and features of this stage?
+6.	Detail the different structures that arise after fertilization (slide 15)
+7.	What occurs during implantation? 
+	*	What are key events and features of this stage?
+8.	What is gastrulation? 
+	*	What are the 3 germ layers, and what specific tissues and organs arise from each?
+9.	What are the ‘extraembryonic membranes’ and what is the general function of each
+10.	List the hormones of gestation 
+	*	Slide 25 of powerpoint
+11.	Weight changes during pregnancy
+12.	What are the specific details of each trimester?
+
+
+
+
+
+
 
 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>
