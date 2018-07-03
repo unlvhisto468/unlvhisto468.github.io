@@ -6,7 +6,7 @@ layout: default
 ![Splash_IMAGE](./assets/images/splashImage_kidney_zoom2.png)
 # Lab 14: Urinary System
 
-_TODO_someContent
+<!-- _TODO_someContent
 
 <br>
 <br>
@@ -21,10 +21,10 @@ _TODO_someContent
 ### Lab Notebook Questions
 
 1.  Sketch This
-2.  Sketch That
+2.  Sketch That -->
 
 
-<!-- <a id="jump-to-practice-questions" class="jump-to-section"> </a>
+<a id="jump-to-practice-questions" class="jump-to-section"> </a>
 ### Practice Questions
 
 <div class="card">
@@ -80,4 +80,4 @@ _TODO_someContent
     </div>
   </div>  
 </div>
-<br> -->
+<br> 

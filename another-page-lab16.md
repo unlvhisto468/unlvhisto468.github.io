@@ -6,7 +6,7 @@ layout: default
 ![Splash_IMAGE](./assets/images/splashImage_graafianFollicle.png)
 # Lab 16: Female Reproductive System
 
-_TODO_someContent
+<!-- _TODO_someContent
 
 <br>
 <br>
@@ -21,9 +21,9 @@ _TODO_someContent
 ### Lab Notebook Questions
 
 1.  Sketch This
-2.  Sketch That
+2.  Sketch That -->
 
-<!-- 
+
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>
 ### Practice Questions
 
@@ -61,4 +61,4 @@ _TODO_someContent
     </div>
   </div>  
 </div>
-<br> -->
+<br>

@@ -14,7 +14,8 @@ layout: default
 1.  Oral Cavity (Indicate Epithelial differences) 
 	*	Sketch the three salivary glands and indicate what ‘kind’ of acini are present, types of ducts, and specify the types of secretory products. 
 	*	In the teeth, what are TWO types of cells that secrete the structural components of the teeth? 
-	*	What are the functions of cementum and the periodontal ligament respectively. Sketch a diagram of the tooth - histologically like this --->
+	*	What are the functions of cementum and the periodontal ligament respectively
+	*   Sketch a diagram of the tooth histologically.
 2.	Which layer of the tongue is the most prominent? Why? 
 	*	What is the type of type of epithelium that is responsible for “sensing” chemicals in the tongue? 
 	*	What are the 3 types of papillae? 
