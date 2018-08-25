@@ -25,6 +25,8 @@ layout: default
 
 * Daniella Sandoval, Chicago Medical School
 
+<!-- <img src="./assets/images/creditImage_daniella.png" style="margin-left: 40px"> -->
+
 #### Webmaster
 * [Richard Van](mailto:vanr1@unlv.nevada.edu)
 
@@ -197,6 +199,4 @@ _JUST COPY AND PASTE, THEN FILL-IN_
 </div>
 
 
-
-
-
+`## END` -->
