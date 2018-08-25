@@ -15,7 +15,7 @@
 <meta property="og:url" content="http://localhost:4000/another-page-lab09.html" />
 <meta property="og:site_name" content="UNLV Histology" />
 <script type="application/ld+json">
-{"description":"BIOL468 Companion Website","headline":"UNLV Histology","@type":"WebPage","url":"http://localhost:4000/another-page-lab09.html","@context":"http://schema.org"}</script>
+{"description":"BIOL468 Companion Website","@type":"WebPage","url":"http://localhost:4000/another-page-lab09.html","headline":"UNLV Histology","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <title>GHOTI dafsdfasdfs</title>
@@ -35,7 +35,7 @@
     <!-- <link rel="stylesheet" href="./assets/css/bootstrap.css" > -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=f09c12678d7738ed56de3afebd9b1b0688aaab59">
+    <link rel="stylesheet" href="/assets/css/style.css?v=60ecaded9f883be0901fa047fc4314b4264b0ac6">
     <script src="/assets/js/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -101,28 +101,78 @@
 
 
 
-        <p><img src="./assets/images/splashImage_blood.png" alt="Splash_IMAGE" /></p>
+        <p><img src="/assets/images/splashImage_blood.png" alt="Splash_IMAGE" /></p>
 <h1 id="lab-9-blood--bone-marrow">Lab 9: Blood &amp; Bone Marrow</h1>
-
-<p><br /></p>
 
 <h3 id="lab-notebook-questions">Lab Notebook Questions</h3>
 
-<ol>
-  <li>Sketch an example of the 5 main Leukocytes and give me a DETAILED function, include examples of functions given in the lab book and lecture book</li>
-  <li>Make a stepwise list of the cells involved in
-    <ul>
-      <li>Granulopoiesis</li>
-      <li>Monopoiesis</li>
-      <li>Lymphopoiesesis</li>
-      <li>Erythropoiesis</li>
-      <li>Thrombopoiesis</li>
-    </ul>
-  </li>
-  <li>Know Slide 28 by heart! Sketch it out in your lab notebook and understand that this is a general “stem cell”- “product” list and the above lists detail the specific steps!</li>
-  <li>Make a table of all the relevant proteins in blood page 252 table 10-1 in your lecture book</li>
-  <li>Include descriptions of the clinical correlations from lecture book here, summarized in YOUR OWN WORDS!</li>
-</ol>
+<!-- /////////////////////////////////////////// -->
+<!-- [conditional logic for release of labnotes] -->
+<div id="if-part" style="visibility: hidden; display: none;">
+
+  <ol>
+    <li>Sketch an example of the 5 main Leukocytes and give me a DETAILED function, include examples of functions given in the lab book and lecture book</li>
+    <li>Make a stepwise list of the cells involved in
+      <ul>
+        <li>Granulopoiesis</li>
+        <li>Monopoiesis</li>
+        <li>Lymphopoiesesis</li>
+        <li>Erythropoiesis</li>
+        <li>Thrombopoiesis</li>
+      </ul>
+    </li>
+    <li>Know Slide 28 by heart! Sketch it out in your lab notebook and understand that this is a general “stem cell”- “product” list and the above lists detail the specific steps!</li>
+    <li>Make a table of all the relevant proteins in blood page 252 table 10-1 in your lecture book</li>
+    <li>Include descriptions of the clinical correlations from lecture book here, summarized in YOUR OWN WORDS!</li>
+  </ol>
+
+</div>
+<div id="else-part" style="visibility: hidden">
+  <em>Available starting: 
+    <div id="else-part-available-date">_IF_SHOWING_ERROR_DATE_NOT_SET_CORRECTLY_VIA_JS_TO_HTML</div>
+  </em>
+</div>
+
+<script>
+  ////////// -- bypass dateChecks With URL hack
+  // Get URL
+  var url = window.location.href;
+  // Get DIV
+  var msg = document.getElementById('if-part');
+  // Check if URL contains the keyword
+  if( url.search( 'show' ) > 0 ) {
+    // Display the message
+    msg.style.visibility = "visible";
+    msg.style.display = "block";
+  }
+
+  ////////// -- enforce date visibility based on date
+  //release if-condition if is on or beyond dateToCheck
+  var dateToRelease = new Date("10/15/2018");
+  var todaysDate = new Date();
+  var node;
+
+  // call setHours to take the time out of the comparison
+  if(dateToRelease.setHours(0,0,0,0) <= todaysDate.setHours(0,0,0,0)) {
+      // Date equals today's date
+        node = document.getElementById('if-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'block';
+  }
+    else {
+        node = document.getElementById('else-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'inline-block';
+
+      node = document.getElementById('else-part-available-date');
+      node.innerHTML = "&nbsp;&nbsp;" + dateToRelease.toLocaleDateString();
+      node.style.display = 'inline-block';
+      // console.log(node)
+    }
+
+</script>
+
+<!-- /////////////////////////////////////////// -->
 
 <p><a id="jump-to-practice-questions" class="jump-to-section"> </a></p>
 <h3 id="practice-questions">Practice Questions</h3>

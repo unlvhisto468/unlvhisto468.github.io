@@ -8,77 +8,10 @@ layout: default
 <a id="jump-to-announcements" class="jump-to-section"> </a>
 # Announcements
 
-#### Exam 1 Results:
-* Average was _80%_ 
-* High Score was _113/113_ 
-
-#### Lecture
-* Reminder: there will be NO special senses chapter in lecture this summer due to scheduling conflicts.
-
-#### Pathology 
-* Pathology Discussion II has been moved to _Friday June 15th_ 
-* Pathology Discussion III has been moved to _Friday June 22nd_ 
-* Pathology Discussion IV has been moved to _Friday June 29th_
-* Pathology Discussion V has been moved to _Thursday July 5th_
-* Pathology Discussion VI was consolidated. 
-
-#### Lab Notebook Report Due Dates
-* Histological Technique, The Cell & Epithelium (_Due 6/5_)   
-* Connective Tissues (_Due 6/6_)                                 
-* Skeletal System (_Due 6/8_)      
-* Muscular System (_Due 6/11_)                         
-* Integumentary System (_Due 6/12_)                                  
-* Nervous System (_Due 6/14_)                                     
-* Special Senses (_Due 6/15_)       
-* Endocrinology (_Due 6/18_)                       
-* Blood & Hematopoiesis (_Due 6/20_)  
-* Cardiovascular System (_Due 6/22_)
-* Lymphatic System (_Due 6/25_)                               
-* Respiratory System (_Due 6/26_) 
-* Digestive System  (_Due 6/27_)                                   
-* Urinary System (_Due 6/29_)         
-* Male Reproductive System (_Due 7/2_)      
-* Female Reproductive System (_Due 7/3_)                              
-* Embryology (_Due 7/5_)  
-
-#### Pathology Discussion 1 Topics 
-
-*	Chapter 2 -Cytoplasm
-	*	Glycogen Storage Disorder – page 46
-*	Chapter 3 - Nucleus
-	*	Fragile X syndrome– page 63
-	*	Down Syndrome– page 63
-	*	Oncogenes – page 76
-*	Chapter 4 – Extracellular Matrix
-	*	Hyaluronidase – page 83
-	*	Stickler Syndrome -page 91
-	*	Scurvy – page 91
-	*	Marfan Syndrome – page 93
-*	Chapter 5 – Epithelium
-	*	Kartagener Syndrome – page 106
-	*	Polydactyly – page 108
-	*	Cardiac Arrhythmias, Gap Junction Plaques– page 117
-*	Chapter 6 – Connective Tissue
-	*	Anaphylaxis – page 137
-	*	Hay Fever – page 137
-	*	Asthma – page 137
-	*	Sarcomas – page 142
-	*	Edema. – page 142
-*	Chapter 7 – Bone & Cartilage
-	*	Osteoporosis – page 160-161
-	*	Ruptured Disk – page 154
-	*	 Rickets – page 174
-*	Chapter 8 - Muscle Tissue
-	*	Rigor Mortis – page 191
-	*	Botox Cosmetic – page 194
-	*	Mysathenia Gravis – page 194
-	*	Cardiac hypertrophy – page 202
-
-*	Chapter 14 – Integumentary System
-	*	Albinism – Page 379
-	*	Pruriception – page 381
-	*	ALL of page 383
-
+* Welcome Fall 2018 Students! 
+* There will be lab during the first week of the semester. 
+* Lecture will be held in HOS210
+* Lab will be held in WHI202.
 
 <br>
 <br>
@@ -86,32 +19,38 @@ layout: default
 
 
 <a id="jump-to-schedule" class="jump-to-section"> </a>
-# Course Schedule (Summer Term 2018)
+# Course Schedule (Fall Term 2018)
 
-| Date                        | Lecture Topic                        | Laboratory Topic                                       |
-|:----------------------------|:-------------------------------------|:-------------------------------------------------------|
-| MONDAY<br> June 4           | Histological Technique, <br>The Cell | Histological Technique, <br>The Cell & Epithelium      |
-| TUESDAY<br> June 5          | Epithelium                           | Connective Tissues                                     |
-| WEDNESDAY<br> June 6        | Connective tissues                   | **Quiz I**                                             |
-| THURSDAY<br> June 7         | Bone & Cartilage                     | Skeletal System							              |
-| FRIDAY<br>   June 8         | Integumentary System                 | Muscular System                                        |
-| MONDAY<br> June 11          | Muscle Tissue                        | Integumentary System, <br>Pathology Discussion 1       |
-| TUESDAY<br> June 12         | Nervous System & Special Senses      | Nervous System                                         |
-| WEDNESDAY<br> June 13       | **EXAM I**                           | **Quiz II**                                            |
-| THURSDAY<br> June 14        | Endocrine System                     | Special senses        							      |
-| FRIDAY<br> June 15          | Blood & Hematopoiesis                | Endocrinology, <br>Pathology Discussion 2              |
-| MONDAY<br> June 18          | Circulatory System                   | **Practical I**<br> 						              |
-| TUESDAY<br> June 19         | Lymphatic System                     | Blood & Hematopoiesis                                  |
-| WEDNESDAY<br> June 20       | Respiratory System                   | **Quiz III**                                           |
-| THURSDAY<br> June 21        | Digestive System                     | Cardiovascular System							      |
-| FRIDAY<br> June 22          | Digestive System                     | Lymphatic System, <br>Pathology Discussion 3           |
-| MONDAY<br> June 25          | **EXAM II**                          | **Quiz IV**, <br>Respiratory System 					  |	
-| TUESDAY<br> June 26         | Urinary System                       | Digestive System                                       |
-| WEDNESDAY<br> June 27       | Male Reproductive System             | **Practical II**                                       |
-| THURSDAY<br> June 28        | Female Reproductive System           | Urinary System							              |
-| FRIDAY<br> June 29          | Female Reproductive System           | Male Reproductive System <br>Pathology Discussion 4    |
-| MONDAY<br> July 2           | Development                          | Female Reproductive System                             |
-| TUESDAY<br> July 3          | Student Presentations                | Embryology							                  |
-| WEDNESDAY<br> July 4        | _4th of July Holiday_                | _4th of July Holiday_                                  |
-| THURSDAY<br> July 5         | Review                               | Review, <br>Pathology Discussion 5             	      |
-| FRIDAY<br> July 6           | **Final Exam**<br>(11:00am - 1:10pm) | **Final Practical**<br>(4:30pm - 6:30pm)               |
+| Date                                 | Lecture Topic                        | Laboratory Topic                                       |
+|:-------------------------------------|:-------------------------------------|:-------------------------------------------------------|
+| August 27/28 <br> (Monday/Tuesday)   | Histological Technique, <br>The Cell | Histological Technique, <br>The Cell, & Epithelium     |
+| August 29/30 <br> (Wednesday/Thursday) | Epithelium                          | Connective Tissue                                          |
+| September 3/4 <br> (Monday/Tuesday)     | **No Class <br> (Labor Day)**                          | **No Class <br> (Labor Day)**                                       |
+| September 5/6 <br> (Wednesday/Thursday) | Epithelium                          | Skeletal System                                          |
+| September 10/11 <br> (Monday/Tuesday)     | Connective Tissue                          | **Pathology 1 / Quiz 1**                                          |
+| September 12/13 <br> (Wednesday/Thursday) | Bone & Cartilage                          | Muscular System                                          |
+| September 17/18 <br> (Monday/Tuesday)     | Integumentary System                          | Integumentary System                                          |
+| September 19/20 <br> (Wednesday/Thursday) | Muscle Tissue                          | Neurology                                          |
+| September 24/25 <br> (Monday/Tuesday)     | Nervous System                          | **Pathology 2 / Quiz 2**                                           |
+| September 26/27 <br> (Wednesday/Thursday) | Special Senses                          | Special Senses                                          |
+| October 1/2 <br> (Monday/Tuesday)     | Review <br> (Powerpoints will NOT be posted)                          | Diagnostic Pathology Lab                                          |
+| October 3/4 <br> (Wednesday/Thursday) | **EXAM 1**                          | Review                                           |
+| October 8/9 <br> (Monday/Tuesday)     | Endocrine System                          | **PRACTICAL 1**                                          |
+| October 10/11 <br> (Wednesday/Thursday) | Endocrine System                          | Endocrinology                                          |
+| October 15/16 <br> (Monday/Tuesday)     | Blood and Hematopoiesis                          | Hematology                                          |
+| October 17/18 <br> (Wednesday/Thursday) | Circulatory System                          | Cardiology                                          |
+| October 22/23 <br> (Monday/Tuesday)     | Lymphatic System                          | **Pathology 3 / Quiz 3**                                           |
+| October 24/25 <br> (Wednesday/Thursday) | Respiratory System                          | Lymphatic System                                          |
+| October 29/30 <br> (Monday/Tuesday)     | Digestive System                          | Pulmonology                                          |
+| Oct. 31/ Nov. 1 <br> (Wednesday/Thursday) | Urinary System                            | Gastroenterology                                          |
+| November 5/6 <br> (Monday/Tuesday)     | Review <br> (Powerpoints will NOT be posted)                         | Nephrology/Urology                                          |
+| November 7/8 <br> (Wednesday/Thursday) | **EXAM 2** <br> (CH.19 NOT included)                         | **Pathology 4 / Quiz 4**                                            |
+| November 12/13 <br> (Monday/Tuesday)     |  **No Class <br> (Veterans Day)**                          | **No Class <br> (Veterans Day)**                                       |
+| November 14/15 <br> (Wednesday/Thursday) | Male Reproductive System                          | Diagnostic Pathology Lab                                          |
+| November 19/20 <br> (Wednesday/Thursday) | Female Reproductive System                         | **PRACTICAL 2**                                            |
+| November 21/22 <br> (Monday/Tuesday)     | Embryology / Development                          | **No Class <br> (Thanksgiving Recess)**                                              |
+| November 26/27 <br> (Wednesday/Thursday) | Student Presentations                          | Male Reproductive System                                          |
+| November 28/29 <br> (Monday/Tuesday)     | Student Presentations                          | Female Reproductive System                                          |
+| December 3/4 <br> (Monday/Tuesday)     | Student Presentations                          | Embryology                                          |
+| December 5/6 <br> (Wednesday/Thursday) | Student Presentations                          | **Pathology 5 / Quiz 5**                                            |
+| December 12 <br> (Wednesday) | **FINAL EXAM** <br> (10:10am-12:20pm)                  | **FINAL PRACTICAL**  <br>(TBD)                                       |

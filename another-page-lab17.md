@@ -8,23 +8,76 @@ layout: default
 
 ### Lab Notebook Questions
 
+<!-- /////////////////////////////////////////// -->
+<!-- [conditional logic for release of labnotes] -->
+<div id='if-part' markdown="1" style='visibility: hidden; display: none;'>
+
 1.  List all of the pathologies (from your lecture book) 
-2.	Where does fertilization occur? 
-3.	Summarize the key events from the video shown in class (approx. 1 page)
-4.	What occurs during fertilization? 
-	*	What are key events and features of this stage? 
-5.	What occurs during cleavage? 
-	*	What are key events and features of this stage?
-6.	Detail the different structures that arise after fertilization (slide 15)
-7.	What occurs during implantation? 
-	*	What are key events and features of this stage?
-8.	What is gastrulation? 
-	*	What are the 3 germ layers, and what specific tissues and organs arise from each?
-9.	What are the ‘extraembryonic membranes’ and what is the general function of each
-10.	List the hormones of gestation 
-	*	Slide 25 of powerpoint
-11.	Weight changes during pregnancy
-12.	What are the specific details of each trimester?
+2.  Where does fertilization occur? 
+3.  Summarize the key events from the video shown in class (approx. 1 page)
+4.  What occurs during fertilization? 
+  * What are key events and features of this stage? 
+5.  What occurs during cleavage? 
+  * What are key events and features of this stage?
+6.  Detail the different structures that arise after fertilization (slide 15)
+7.  What occurs during implantation? 
+  * What are key events and features of this stage?
+8.  What is gastrulation? 
+  * What are the 3 germ layers, and what specific tissues and organs arise from each?
+9.  What are the ‘extraembryonic membranes’ and what is the general function of each
+10. List the hormones of gestation 
+  * Slide 25 of powerpoint
+11. Weight changes during pregnancy
+12. What are the specific details of each trimester?
+
+</div>
+<div id='else-part' style='visibility: hidden'>
+  <em>Available starting: 
+    <div id="else-part-available-date">_IF_SHOWING_ERROR_DATE_NOT_SET_CORRECTLY_VIA_JS_TO_HTML</div>
+  </em>
+</div>
+
+<script>
+  ////////// -- bypass dateChecks With URL hack
+  // Get URL
+  var url = window.location.href;
+  // Get DIV
+  var msg = document.getElementById('if-part');
+  // Check if URL contains the keyword
+  if( url.search( 'show' ) > 0 ) {
+    // Display the message
+    msg.style.visibility = "visible";
+    msg.style.display = "block";
+  }
+
+  ////////// -- enforce date visibility based on date
+  //release if-condition if is on or beyond dateToCheck
+  var dateToRelease = new Date("12/03/2018");
+  var todaysDate = new Date();
+  var node;
+
+  // call setHours to take the time out of the comparison
+  if(dateToRelease.setHours(0,0,0,0) <= todaysDate.setHours(0,0,0,0)) {
+      // Date equals today's date
+        node = document.getElementById('if-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'block';
+  }
+    else {
+        node = document.getElementById('else-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'inline-block';
+
+      node = document.getElementById('else-part-available-date');
+      node.innerHTML = "&nbsp;&nbsp;" + dateToRelease.toLocaleDateString();
+      node.style.display = 'inline-block';
+      // console.log(node)
+    }
+
+</script>
+<!-- /////////////////////////////////////////// -->
+
+
 
 
 

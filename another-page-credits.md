@@ -12,29 +12,18 @@ layout: default
 
 * Victor Barragan             
 <!-- * Alex Deehl                  -->
-<!-- * Oscar Monterossa -->
+* Oscar Monterossa
 
 #### Undegraduate Teaching Assistants
 
 * Natalie Contreras 
-
 * Matthew Khumnrak 
-
-<img src="./assets/images/creditImage_matt.png" style="margin-left: 40px">
-
-* Robert Lincon 
-
-<img src="./assets/images/creditImage_robert.png" style="margin-left: 40px">
-
-
 * Jennifer Phan
 * Richard Van
 
 #### Course Contributor
 
 * Daniella Sandoval, Chicago Medical School
-
-<img src="./assets/images/creditImage_daniella.png" style="margin-left: 40px">
 
 #### Webmaster
 * [Richard Van](mailto:vanr1@unlv.nevada.edu)
@@ -208,4 +197,6 @@ _JUST COPY AND PASTE, THEN FILL-IN_
 </div>
 
 
-`## END` -->
+
+
+

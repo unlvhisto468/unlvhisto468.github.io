@@ -5,20 +5,71 @@ layout: default
 ![Splash_IMAGE](./assets/images/splashImage_blood.png)
 # Lab 9: Blood & Bone Marrow
 
-<br>
-
 ### Lab Notebook Questions
 
-1.	Sketch an example of the 5 main Leukocytes and give me a DETAILED function, include examples of functions given in the lab book and lecture book
-2. 	Make a stepwise list of the cells involved in 
-	* Granulopoiesis
-	* Monopoiesis
-	* Lymphopoiesesis
-	* Erythropoiesis 
-	* Thrombopoiesis
-3.	Know Slide 28 by heart! Sketch it out in your lab notebook and understand that this is a general “stem cell”- “product” list and the above lists detail the specific steps!
-4.	Make a table of all the relevant proteins in blood page 252 table 10-1 in your lecture book
-5.	Include descriptions of the clinical correlations from lecture book here, summarized in YOUR OWN WORDS!
+<!-- /////////////////////////////////////////// -->
+<!-- [conditional logic for release of labnotes] -->
+<div id='if-part' markdown="1" style='visibility: hidden; display: none;'>
+
+1.  Sketch an example of the 5 main Leukocytes and give me a DETAILED function, include examples of functions given in the lab book and lecture book
+2.  Make a stepwise list of the cells involved in 
+  * Granulopoiesis
+  * Monopoiesis
+  * Lymphopoiesesis
+  * Erythropoiesis 
+  * Thrombopoiesis
+3.  Know Slide 28 by heart! Sketch it out in your lab notebook and understand that this is a general “stem cell”- “product” list and the above lists detail the specific steps!
+4.  Make a table of all the relevant proteins in blood page 252 table 10-1 in your lecture book
+5.  Include descriptions of the clinical correlations from lecture book here, summarized in YOUR OWN WORDS!
+
+</div>
+<div id='else-part' style='visibility: hidden'>
+  <em>Available starting: 
+    <div id="else-part-available-date">_IF_SHOWING_ERROR_DATE_NOT_SET_CORRECTLY_VIA_JS_TO_HTML</div>
+  </em>
+</div>
+
+<script>
+  ////////// -- bypass dateChecks With URL hack
+  // Get URL
+  var url = window.location.href;
+  // Get DIV
+  var msg = document.getElementById('if-part');
+  // Check if URL contains the keyword
+  if( url.search( 'show' ) > 0 ) {
+    // Display the message
+    msg.style.visibility = "visible";
+    msg.style.display = "block";
+  }
+
+  ////////// -- enforce date visibility based on date
+  //release if-condition if is on or beyond dateToCheck
+  var dateToRelease = new Date("10/15/2018");
+  var todaysDate = new Date();
+  var node;
+
+  // call setHours to take the time out of the comparison
+  if(dateToRelease.setHours(0,0,0,0) <= todaysDate.setHours(0,0,0,0)) {
+      // Date equals today's date
+        node = document.getElementById('if-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'block';
+  }
+    else {
+        node = document.getElementById('else-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'inline-block';
+
+      node = document.getElementById('else-part-available-date');
+      node.innerHTML = "&nbsp;&nbsp;" + dateToRelease.toLocaleDateString();
+      node.style.display = 'inline-block';
+      // console.log(node)
+    }
+
+</script>
+<!-- /////////////////////////////////////////// -->
+
+
 
 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>

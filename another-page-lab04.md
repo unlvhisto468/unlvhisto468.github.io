@@ -5,15 +5,66 @@ layout: default
 ![Splash_IMAGE](./assets/images/splashImage_skeletalMuscle.png) 
 # Lab 4: Muscular System
 
-<br>
-
 ### Lab Notebook Questions
+
+<!-- /////////////////////////////////////////// -->
+<!-- [conditional logic for release of labnotes] -->
+<div id='if-part' markdown="1" style='visibility: hidden; display: none;'>
 
 1.  Sketch the 3 types of muscle tissue. 
 2.  Sketch the layers of organization of muscle, including the types of tissues
 3.  How does CT stabilize muscle? 
 4.  List the steps of the EXCITATION phase 
 5.  Do a rough sketch of what a muscle fiber and its specific arrangements inside the fiber
+
+
+</div>
+<div id='else-part' style='visibility: hidden'>
+  <em>Available starting: 
+    <div id="else-part-available-date">_IF_SHOWING_ERROR_DATE_NOT_SET_CORRECTLY_VIA_JS_TO_HTML</div>
+  </em>
+</div>
+
+<script>
+  ////////// -- bypass dateChecks With URL hack
+  // Get URL
+  var url = window.location.href;
+  // Get DIV
+  var msg = document.getElementById('if-part');
+  // Check if URL contains the keyword
+  if( url.search( 'show' ) > 0 ) {
+    // Display the message
+    msg.style.visibility = "visible";
+    msg.style.display = "block";
+  }
+
+  ////////// -- enforce date visibility based on date
+  //release if-condition if is on or beyond dateToCheck
+  var dateToRelease = new Date("09/12/2018");
+  var todaysDate = new Date();
+  var node;
+
+  // call setHours to take the time out of the comparison
+  if(dateToRelease.setHours(0,0,0,0) <= todaysDate.setHours(0,0,0,0)) {
+      // Date equals today's date
+        node = document.getElementById('if-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'block';
+  }
+    else {
+        node = document.getElementById('else-part');
+      node.style.visibility = 'visible';
+      node.style.display = 'inline-block';
+
+      node = document.getElementById('else-part-available-date');
+      node.innerHTML = "&nbsp;&nbsp;" + dateToRelease.toLocaleDateString();
+      node.style.display = 'inline-block';
+      // console.log(node)
+    }
+
+</script>
+<!-- /////////////////////////////////////////// -->
+
 
 
 <a id="jump-to-practice-questions" class="jump-to-section"> </a>
