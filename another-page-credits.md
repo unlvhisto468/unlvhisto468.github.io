@@ -2,35 +2,6 @@
 layout: default
 ---
 
-# Credits and Contributions 
-
-#### Course Professor
-
-* Dr. Robert Winokur
-
-#### Lab Instructors
-
-* Victor Barragan             
-<!-- * Alex Deehl                  -->
-* Oscar Monterossa
-
-#### Undegraduate Teaching Assistants
-
-* Natalie Contreras 
-* Matthew Khumnrak 
-* Jennifer Phan
-* Richard Van
-
-#### Course Contributor
-
-* Daniella Sandoval, Chicago Medical School
-
-<!-- <img src="./assets/images/creditImage_daniella.png" style="margin-left: 40px"> -->
-
-#### Webmaster
-* [Richard Van](mailto:vanr1@unlv.nevada.edu)
-
-<br>
 
 <!-- 
 

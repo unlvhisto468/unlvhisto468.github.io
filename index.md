@@ -54,3 +54,38 @@ layout: default
 | December 3/4 <br> (Monday/Tuesday)     | Student Presentations                          | Embryology                                          |
 | December 5/6 <br> (Wednesday/Thursday) | Student Presentations                          | **Pathology 5 / Quiz 5**                                            |
 | December 12 <br> (Wednesday) | **FINAL EXAM** <br> (10:10am-12:20pm)                  | **FINAL PRACTICAL**  <br>(TBD)                                       |
+
+<br>
+
+<a id="jump-to-credits" class="jump-to-section"> </a>
+# Credits and Contributions 
+
+#### Course Professor
+
+* Dr. Robert Winokur
+
+#### Lab Instructors
+
+* Victor Barragan             
+<!-- * Alex Deehl                  -->
+* Oscar Monterossa
+
+#### Undegraduate Teaching Assistants
+
+* Natalie Contreras 
+* Matthew Khumnrak 
+* Jennifer Phan
+* Richard Van
+
+#### Course Contributor
+
+* Daniella Sandoval, Chicago Medical School
+
+<!-- <img src="./assets/images/creditImage_daniella.png" style="margin-left: 40px"> -->
+
+#### Webmaster
+* [Richard Van](mailto:vanr1@unlv.nevada.edu)
+
+<br>
+
+
