@@ -10,7 +10,7 @@ layout: default
 
 * Welcome Fall 2018 Students! 
 * There will be lab during the first week of the semester. 
-* Lecture will be held in HOS210
+* Lecture will be held in WHI197
 * Lab will be held in WHI202.
 
 <br>
@@ -68,7 +68,7 @@ layout: default
 
 * Victor Barragan             
 <!-- * Alex Deehl                  -->
-* Oscar Monterossa
+* Oscar Monterrosa
 
 #### Undegraduate Teaching Assistants
 
